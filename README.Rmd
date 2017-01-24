@@ -20,8 +20,8 @@ Specific topics covered will include a subset of: data types and sources, data c
 ###Course Goals
 The overarching goal of this course is for students to acquire the knowledge and skills to be intelligent producers and consumers of learning analytics and data science in education. By the end of the course students will be able to:
 
-*Systematically select, analyze and interpret data to make an argument about learning
-*Take an informed position on research, policy, and practice issues related to educational data science 
+  + Systematically select, analyze and interpret data to make an argument about learning
+  + Take an informed position on research, policy, and practice issues related to educational data science 
 
 This necessarily means that students become comfortable with the educational applications of three domain areas: computer science, statistics and the context surrounding data use. There is no expectation for students to become experts in any single area. Rather the course will enhance student competency in identifying issues at the level of data acquisition, data analysis and application of analysis in education.
 
@@ -36,10 +36,51 @@ Group Data Science Project	| Design, conduct and interpret an analysis designed 
 We will have two online spaces for this course. The first is in GitHub, an online version control repository system (<https://github.com/learninganalytics-datascience-edu>). This is where I will upload course documents, links to readings and assignments. It is also where you will submit your completed assignments. You will need to create a (free) GitHub account and then I will add you to our class organization so you will have access to all the files. The second space is in Slack, an online team collaboration tool (<https://ladsedu.slack.com>). This will be the hub for our communication and the go to place for discussing the readings and connecting with classmates when you have technical problems. Finally, you should also make sure that you have a working NYU Home email account (which you check regularly).
 
 ###Readings
-Course readings come from a variety of scholarly journals and edited book volumes. The majority of these are available online through the NYU library accessed via NYU Home and you are welcome to work with them in digital or print form as you wish. Exceptions are noted on the week-by-week schedule. A small number of readings not available digitally will be distributed in class. 
+Course readings come from a variety of scholarly journals and edited book volumes. The majority of these are available online through the [NYU library] (https://library.nyu.edu/) and you are welcome to work with them in digital or print form as you wish. Exceptions are noted on the week-by-week schedule. A small number of readings not available digitally may be distributed in class. 
+
 ###Software
 You will be asked to download, install and use a number of data analysis tools as part of your work in this course. All required tools are freely available on the web and are supported by communities of users which generate documentation, offer tutorials, and ask and answer questions to help each other.
 
 ###Accessibility
 Any student attending NYU who needs an accommodation due to a chronic, psychological, visual, mobility and/or learning disability, or is Deaf or Hard of Hearing should register with the Moses Center for Students with Disabilities, 719 Broadway, 2nd Floor, 212.998.4980 (telephone and TTY), (<http://www.nyu.edu/csd>)
+
+###Digital Devices in Class
+Technology has become an integral tool to our working, scholarly and personal lives. It can also be a very tempting distraction… As our course is intimately connected to the use of technology in education, and we will be doing a variety of hands-on exercises, you are expected to bring a laptop with you to class. However, it important to make sure that you are using your digital device to support, rather than detract from, your presence in class. Beyond the specific data mining exercises will we do as a group, looking up relevant information on-the-spot and taking notes (perhaps real-time collaboratively or to share digitally with your classmates) are ways a laptop can support classroom learning. Please refrain from checking social media or surfing the web during class – your classmates can tell if you are being disrespectful by only half-listening to their ideas.
+
+###Scheduling, Extensions & Incompletes
+Due dates for all assignments have been provided and need to be respected. I realize that you all have many other demands on your time, so please plan ahead. If you have a special circumstance or scheduling conflict you wish to discuss, please talk with me as soon as possible. Unless you have negotiated with me ahead of time, late work will only be accepted within one week of the due date and the mark will be reduced by one letter grade increment. Because this is a seminar course, class meetings, discussions and activities are central to the learning process and your attendance at all class sessions is expected. If you have to miss a class, please let me know beforehand so we can make alternate arrangements for you to keep up with the material. Multiple absences and/or failure to make up missed class work will negatively impact your grade.
+
+Students should notify instructors at the beginning of the semester about their wishes to observe holidays on days when class sessions are scheduled. Where academic scheduling conflicts prove unavoidable, no student will be penalized for absence due to religious reasons, and alternative means will be sought for satisfying the academic requirements involved. 
+The grade of Incomplete will be assigned only when the course attendance requirement has been met but, for reasons satisfactory to the instructor, the granting of a final grade has been postponed because certain course assignments are outstanding. If the outstanding assignments are completed within one calendar year from the date of the close of term in which the grade of Incomplete was received and a final grade submitted, the final grade will be recorded on the permanent transcript, replacing the grade of Incomplete, with a transcript notation indicating the date that the grade of Incomplete was replaced by a final grade. If the outstanding work is not completed within one calendar year from the date of the close of term in which the grade of Incomplete was received, the grade will remain as a permanent Incomplete or will default to a non-passing grade, as determined by School and/or University Policy. For more information, students should speak with their advisors or program directors.
+
+###Grading 
+Grade |Descriptor
+-------|--------------------------------------
+A | Excellent	Work is thorough, well reasoned, creative, sophisticated, and well written.  Work is of exceptional, professional quality.
+A- | Very Good	Work shows signs of creativity, is thorough and well-reasoned, indicates strong understanding of appropriate methodological or analytical approaches, and meets professional standards.
+B+ | Good	Work is well-reasoned, thorough, and methodologically sound.  Accomplishment of the basic objectives of the course.
+B | Adequate	Work demonstrates competency in the key course objectives but shows some indication that understanding of some important issues is less than complete. 
+B- | Borderline	Work meets minimal expectations.  Understanding of salient issues is incomplete. Analytical work performed in the course is minimally adequate. 
+C+/- D|  Deficient	Work is inadequate and does not meet minimal expectations. It is poorly developed or flawed by numerous errors and misunderstanding of important issues.  
+F | Fail	Work fails to meet even minimal expectations for course credit for a graduate student.  Performance has been consistently weak, with serious limits in many areas.  
+
+###Academic Integrity
+Academic integrity is the guiding principle for all that you do at the university; from taking exams, to writing code and from reporting data analyses to writing term papers. It requires that you recognize and acknowledge data, information and algorithms derived from others, and take credit only for ideas and work that are yours. You violate the principle of academic integrity when you submit work created by someone else, submit the same work for two different courses without prior permission, fail to acknowledge help you receive completing course assignments or plagiarize.
+
+It is expected that all work turned in for this course will be your own original work with appropriate credit given to all sources used. This holds for both written compositions and code. There are many open source resources available to help you in your work in this course. You are encouraged to both use and appropriately acknowledge these sources. Students who submit work that is either not their own or without clear attribution to the original source, fabricate data or engage in cheating / misrepresentation may be penalized for academic dishonesty.  
+
+####Resources
+  +	[Steinhardt’s Academic Integrity Policy] (http://steinhardt.nyu.edu/policies/academic_integrity)
+  + [NYU’s Academic Integrity Policy] (http://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/academic-integrity-for-students-at-nyu.html)
+  +	[APA Style Guide] (http://guides.nyu.edu/apa)
+
+###Expectations
+You will….
++ do the readings and complete the assignments consistently
++ actively contribute to class activities online and in-person
++ be an active and collaborative technical problem-solver
++ ask for help or support from your peers and myself if you need it
++ pick a project that is interesting and meaningful to you
++ have fun exploring ideas and data in this course!
+
 
