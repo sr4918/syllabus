@@ -56,13 +56,13 @@ The grade of Incomplete will be assigned only when the course attendance require
 ###Grading 
 Grade |Descriptor
 -------|--------------------------------------
-A | Excellent	Work is thorough, well reasoned, creative, sophisticated, and well written.  Work is of exceptional, professional quality.
-A- | Very Good	Work shows signs of creativity, is thorough and well-reasoned, indicates strong understanding of appropriate methodological or analytical approaches, and meets professional standards.
-B+ | Good	Work is well-reasoned, thorough, and methodologically sound.  Accomplishment of the basic objectives of the course.
-B | Adequate	Work demonstrates competency in the key course objectives but shows some indication that understanding of some important issues is less than complete. 
-B- | Borderline	Work meets minimal expectations.  Understanding of salient issues is incomplete. Analytical work performed in the course is minimally adequate. 
-C+/- D|  Deficient	Work is inadequate and does not meet minimal expectations. It is poorly developed or flawed by numerous errors and misunderstanding of important issues.  
-F | Fail	Work fails to meet even minimal expectations for course credit for a graduate student.  Performance has been consistently weak, with serious limits in many areas.  
+A | *Excellent.*	Work is thorough, well reasoned, creative, sophisticated, and well written.  Work is of exceptional, professional quality.
+A- | *Very Good.*	Work shows signs of creativity, is thorough and well-reasoned, indicates strong understanding of appropriate methodological or analytical approaches, and meets professional standards.
+B+ | *Good	Work.* is well-reasoned, thorough, and methodologically sound.  Accomplishment of the basic objectives of the course.
+B | *Adequate	Work.* demonstrates competency in the key course objectives but shows some indication that understanding of some important issues is less than complete. 
+B- | *Borderline.*	Work meets minimal expectations.  Understanding of salient issues is incomplete. Analytical work performed in the course is minimally adequate. 
+C+/- D| *Deficient	Work.* is inadequate and does not meet minimal expectations. It is poorly developed or flawed by numerous errors and misunderstanding of important issues.  
+F | *Fail.*	Work fails to meet even minimal expectations for course credit for a graduate student.  Performance has been consistently weak, with serious limits in many areas.  
 
 ###Academic Integrity
 Academic integrity is the guiding principle for all that you do at the university; from taking exams, to writing code and from reporting data analyses to writing term papers. It requires that you recognize and acknowledge data, information and algorithms derived from others, and take credit only for ideas and work that are yours. You violate the principle of academic integrity when you submit work created by someone else, submit the same work for two different courses without prior permission, fail to acknowledge help you receive completing course assignments or plagiarize.
