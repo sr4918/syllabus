@@ -1,0 +1,15 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+## Course Schedule
+*(subject to change in order to best meet your learning needs and interests)*
+
+---
+
+Session|Topic|Readings + Other Preparation|Assignments Due
+:------:|-----------|------------------------------------|--------------
+Wk 1 Jan 26	| Introduction to Learning Analytics & Educational Data Science	|	Educause (2015). [Why is measuring learning so difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v) |
+
+Wk 2 Feb 2| Diving Into Data (and Cleaning It Up)
