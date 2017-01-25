@@ -7,15 +7,15 @@ output: html_notebook
 *(subject to change in order to best meet your learning needs and interests)*
 
 Session|Topic|Readings + Other Preparation|Assignments Due
-----------|-----------------|------------------------------------|--------------
+-------|-----------------|------------------------------------|--------------
 Wk 1 Jan 26	| Introduction to Learning Analytics & Educational Data Science	|	Educause (2015). [Why is measuring learning so difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v) |
-Wk 2 Feb 2 | XXXX | XXXX | Class Tool Set-Up
+Wk 2 Feb 2 | XXXX | XXXX | Software &  Tool Set-Up
 Wk 3 Feb 9 | Diving Into Data (and Cleaning It Up)
 Wk 4 Feb 16  |
 Wk 5 Feb 23  |
 Wk 6 Mar 2  |
 Wk 7 Mar 9  |
-Wk 8 Mar 16  | | No Class (Spring Break) |
+Wk 8 Mar 16  | No Class (Spring Break) | |
 Wk 9 Mar 23  |
 Wk 10 Mar 30  |
 Wk 11 Apr 6  |
