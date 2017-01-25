@@ -24,12 +24,15 @@ Git is a version control system (a way to keep track of changes in files across 
 R is an open source programming language for statistical computing and graphics widely used in data mining and learning analytics. RStudio is an open source development environment that supports work in R with a variety of functionalities. You will need to install both of these on your computer.  
   + [Install R 3.3.2](https://cran.rstudio.com/)
   + [Install RStudio 1.0.136](https://www.rstudio.com/)
+
+*Additional R Resources*
   + [Lynda.com tutorial on installing R (Sections 1 & 2)](http://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html?org=nyu.edu)
   + [NYU R Tutorials and Resources](http://guides.nyu.edu/r)
   
 ####Connecting your Github account to your RStudio installation 
 In order to *pull* down files from a Github *repository*, work with them in RStudio, *commit* the changes and *push* the files back up to the repository, you will need your RStudio installation to be set up to use Git to communicate with Github. 
   + [Setting Up GitHub with RStudio](http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/)
+  
 Once you have set-up the connection, I highly recommend that you follow the instructions at the end of the article to create a test repository with the default README.md file, pull it down into a new project in RStudio, make some edits to the text (it doesn't matter what), commit the changes and push back up to github. You should then be able to view the modified file in your github account and know that you are ready to go for next week.
 
 *Note*: While the instructions given for connecting GitHub and RStudio are clear and thorough, it is still possible to run into challenges getting the systems to talk to each other. Don't be discouraged -  figuring out how to get the tools to do what you want is a big part of data science. What is important is not giving up when things don't work right away and learning to troubleshoot problems. If you do run into difficulties you can (a) look for help for the specific problem you are encountering online (there are many helpful forums devoted to working with R, RStudio, Git and Github); (b) ask your classmates for help in the [Slack #tech-help channel](https://ladsedu.slack.com/messages/tech-help/) - others may have run into the same issue. Conversely, if you have been successful in connecting the systems, please check Slack to see if you can be of help to others; (c) if searching for help and asking your classmates hasn't resolved the issue, send me an email and we can set up a time to meet *before* next class. 
