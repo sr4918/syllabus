@@ -3,7 +3,7 @@ title: "R Notebook"
 output: html_notebook
 ---
 
-## Learning Analytics & Data Science in Education (EDCT GE-2552)
+## Learning Analytics & Data Science in Education (EDCT GE-2252)
 
 ---
 
@@ -21,7 +21,7 @@ Specific topics covered will include a subset of: data types and sources, data c
 The overarching goal of this course is for students to acquire the knowledge and skills to be intelligent producers and consumers of learning analytics and data science in education. By the end of the course students will be able to:
 
   + Systematically select, analyze and interpret data to make an argument about learning
-  + Take an informed position on research, policy, and practice issues related to educational data science 
+  + Take an informed position on research, policy, and practice issues related to educational data science
 
 This necessarily means that students become comfortable with the educational applications of three domain areas: computer science, statistics and the context surrounding data use. There is no expectation for students to become experts in any single area. Rather the course will enhance student competency in identifying issues at the level of data acquisition, data analysis and application of analysis in education.
 
@@ -33,13 +33,13 @@ Individual Data Science Assignments (5) |	Using provided tools and/or code, cond
 Group Data Science Project	| Design, conduct and interpret an analysis designed to produce a particular kind of insight into specific data. |	30%
 
 ###Online Space & Communication
-We will have two online spaces for this course. The first is in GitHub, an online version control repository system (<https://github.com/learninganalytics-datascience-edu>). This is where I will upload course documents, links to readings and assignments. It is also where you will submit your completed assignments. You will need to create a (free) GitHub account and then I will add you to our class organization so you will have access to all the files. The second space is in Slack, an online team collaboration tool (<https://ladsedu.slack.com>). This will be the hub for our communication and the go to place for discussing the readings and connecting with classmates when you have technical problems. Finally, you should also make sure that you have a working NYU Home email account (which you check regularly).
+We will have two online spaces for this course. The first is in GitHub, an online version control system repository (<https://github.com/learninganalytics-datascience-edu>). This is where I will upload course documents, links to readings and assignments. It is also where you will submit your completed assignments. You will need to create a (free) GitHub account and then I will add you to our class organization so you will have access to all the files. The second space is in Slack, an online team collaboration tool (<https://ladsedu.slack.com>). This will be the hub for our communication and the go-to place for discussing the readings and connecting with classmates when you have technical problems. Finally, you should also make sure that you have a working NYU Home email account (which you check regularly).
 
 ###Readings
 Course readings come from a variety of scholarly journals and edited book volumes. The majority of these are available online through the [NYU library] (https://library.nyu.edu/) and you are welcome to work with them in digital or print form as you wish. Exceptions are noted on the week-by-week schedule. A small number of readings not available digitally may be distributed in class. 
 
 ###Software
-You will be asked to download, install and use a number of data analysis tools as part of your work in this course. All required tools are freely available on the web and are supported by communities of users which generate documentation, offer tutorials, and ask and answer questions to help each other.
+You will be asked to download, install and use a number of data analysis and generation tools as part of your work in this course. All required tools are freely available on the web and are supported by communities of users which generate documentation, offer tutorials, and ask and answer questions to help each other.
 
 ###Accessibility
 Any student attending NYU who needs an accommodation due to a chronic, psychological, visual, mobility and/or learning disability, or is Deaf or Hard of Hearing should register with the Moses Center for Students with Disabilities, 719 Broadway, 2nd Floor, 212.998.4980 (telephone and TTY), (<http://www.nyu.edu/csd>)
