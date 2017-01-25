@@ -1,0 +1,33 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+#Software & Tools
+In this course we will be using several online services and software packages. In order to particpate in the class you will need to have operational, up-to-date accounts and installations of these tools.
+
+###Software
+
+####Git
+Git is a version control system (a way to keep track of changes in files across multiple copies accessed by multiple users).
+
+###Online Services
+
+####Slack
+Slack is an online team collaboration tool. Our [LADS-EDU Slack space](https://ladsedu.slack.com) will be the hub for our communication and the go-to place for discussing the readings and connecting with classmates when you have technical problems. Use this [invitation link](https://ladsedu.slack.com/shared_invite/MTMyMzAwMTI0NzkwLTE0ODUyNTQyOTktYjRmOTg2MDhmYQ) to join our Slack team.
+
+####Github
+GitHub is an online repository using the Git version control system. Our [LADS-EDU Github space](https://github.com/learninganalytics-datascience-edu) is where I will upload course documents, links to readings and assignments. It is also where you will submit your completed assignments. You will need to [create a (free) personal Github account](https://github.com/join?source=header) if you don't have one already. When you have a Github account, share your username in the #githubdeets Slack channel and I will add you to our class organization so you will have full access to all the files and I will be able to see when you have work ready for me to review.
+
+###Software
+
+####Git
+Git is a version control system (a way to keep track of changes in files across multiple copies accessed by multiple users). You will need this installed inorder to work with our class files on Github.
+
+####R and RStudio
+R is an open source programming language for statistical computing and graphics widely used in data mining and learning analytics. RStudio is an open source development environment that supports work in R with a variety of functionalities. You will need to install both of these on your computer.  
+  + [Installing R 3.3.2](https://cran.rstudio.com/)
+  + [Installing RStudio 1.0.136](https://www.rstudio.com/)
+   
+####Connecting your Github account to your RStudio installation 
+by following the instructions in the Tools repository. 
