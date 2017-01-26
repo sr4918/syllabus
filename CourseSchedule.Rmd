@@ -7,20 +7,20 @@ output: html_notebook
 *(subject to change in order to best meet your learning needs and interests)*
 
 Session|Topic|Readings + Other Preparation|Assignments Due
--------|-----------------|------------------------------------|--------------
+---------|------------|------------------------------------|--------------
 Wk 1 Jan 26	| Introduction to Learning Analytics & Educational Data Science	|	Educause (2015). [Why is measuring learning so difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v) |
-Wk 2 Feb 2 | XXXX | XXXX | Software &  Tool Set-Up
-Wk 3 Feb 9 | Diving Into Data (and Cleaning It Up)
-Wk 4 Feb 16  |
-Wk 5 Feb 23  |
-Wk 6 Mar 2  |
-Wk 7 Mar 9  |
-Wk 8 Mar 16  | No Class (Spring Break) | |
-Wk 9 Mar 23  |
-Wk 10 Mar 30  |
-Wk 11 Apr 6  |
-Wk 12 Apr 13 |
-Wk 13 Apr 20 |
-Wk 14 Apr 27 |
-Wk 15 May 4 |
+Wk 2 Feb 2 | State of the Field:</br>Origins & Key Issues | Siemens, G. (2013). [Learning analytics: The emergence of a discipline](http://journals.sagepub.com/doi/pdf/10.1177/0002764213498851). *American Behavioral Scientist, 57*(10), 1380-1400. </br> </br> Ferguson, R., et al. (2016). [Research evidence on the use of learning analytics: Implications for education policy](http://publications.jrc.ec.europa.eu/repository/bitstream/JRC104031/lfna28294enn.pdf). Publications Office of the European Union: JRC Science for Policy Report. </br> **(p8-27 only)** | [Software &  Tool Set-Up](https://github.com/learninganalytics-datascience-edu/syllabus/blob/master/SoftwareAndTools.Rmd) </br> </br>  [#wk2discuss](https://ladsedu.slack.com/messages/wk2discuss/) </br> </br> Survey (link by Monday)
+Wk 3 Feb 9 | Diving Into Data</br>(and Cleaning It Up) | Selwyn, N. (2015). [Data entry: Towards the critical study of digital data and education](http://www.tandfonline.com/doi/abs/10.1080/17439884.2014.921628?journalCode=cjem20). *Learning, Media and Technology, 40*(1), 64-82. **(NYU Login Req)**</br> </br> Wise, A. F., & Schaffer, D. W. (2015). [Why theory matters more than ever in the age of big data](http://epress.lib.uts.edu.au/journals/index.php/JLA/article/view/4677). *Journal of Learning Analytics, 2*(2), 5–13.| R Swirl Tutorials </br>(coming soon) </br> </br> [#wk3discuss](https://ladsedu.slack.com/messages/wk3discuss/)
+Wk 4 Feb 16  | Finding Meaningful Groupings with Clustering	| Wise, A. F., Speer, J., Marbouti, F., & Hsiao, Y. T. (2013). [Broadening the notion of participation in online discussions: examining patterns in learners’ online listening behaviors](http://link.springer.com/article/10.1007/s11251-012-9230-9). *Instructional Science, 41*(2), 323-343. **(NYU Login Req)** | Individual Data Assignment #1 (Data Cleaning, Exploration & Conceptualization) 
+Wk 5 Feb 23  |  Predictive Modelling 	| Zheng, A. (2015). Evaluating machine learning models. O’Reily Media. (Chpr 2: Evaluation Metrics).	</br> </br> TBD | Individual Data Assignment #2 (Clustering) 
+Wk 6 Mar 2  | Predictive Modelling II |	San Pedro, M.O.Z., Baker, R.S.J.d., Bowers, A.J., Heffernan, N.T. (2013) Predicting college enrollment from student interaction with a intelligent tutoring system in middle school. Proceedings of EDM 2013, 177-184. |  
+Wk 7 Mar 9  | Ethics & Privacy Issues | Young, J.R. (2014). Why students should own their educational data. *The Chronicle of Higher Education Blogs: Wired Campus*. </br></br> Slade, S. & Prinsloo, P. (2013). Learning analytics: ethical issues and dilemmas. *American Behavioral Scientist, 57*(10),1509–1528. |	Individual Data Assignment #3 (Predictive Modelling)
+Wk 8 Mar 16  | | No Class (Spring Break) | 
+Wk 9 Mar 23  | Social Network Analysis |	Grunspan et al. (2014). Understanding classrooms through social network analysis: A primer for social network analysis in education research. CBE-Life Sciences Education, 13(2), 167–178.|
+Wk 10 Mar 30  | Natural Language Processing  | Shermis, M. D. (2014). State-of-the-art automated essay scoring: Competition, results, and future directions from a United States demonstration. Assessing Writing, 20, 53–76.| Individual Data Assignment #4 (Social Network Analysis) </br> </br> 
+Wk 11 Apr 6  | Natural Language Processing II | Nadkarni, P.M., Ohno-Machado, L. and Chapman, W.W. (2011). Natural language processing: An introduction. Journal of the American Medical Informatics Association: JAMIA. 18(5), 544–551. </br> </br> TBD |
+Wk 12 Apr 13 | Visualization & Dashboards | Friendly, M. (2008). A brief history of data visualization. handbook of data visualization. Springer. (pp. 15-56 only) </br> </br> Kandel, S., et al. (2011). Research directions in data wrangling: Visualizations and transformations for usable and credible data. Information Visualization Journal, 10(4), 271–288. | Individual Data Assignment #5 (Natural Language Processing) </br> </br> 
+Wk 13 Apr 20 | Implementation & Use of Learning Analytics	| Wise, A., Zhao, Y., & Hausknecht, S. (2014). Learning analytics for online discussions: Embedded and extracted approaches. Journal of Learning Analytics, 1(2), 48-71. </br> </br>	Lee, V. R., & Drake, J. (2013, June). Quantified recess: design of an activity for elementary students involving analyses of their own movement data. In Proceedings of the 12th international conference on interaction design and children (pp. 273-276). ACM. | 
+Wk 14 Apr 27 | Everything Will Be Open (Maybe) |Bull, S. and Kay, J. (2010). Open learner models. In Advances in Intelligent Tutoring Systems, Springer. (pp. 318–338 only) </br> </br>	Ridgway, J. and Smith, A. (2013). Open data, official statistics and statistics education: Threats, and opportunities for collaboration. Proceedings of Statistics Education for Progress. |
+Wk 15 May 4 | Wrapping Up | Final class – no readings | Group Project
 
