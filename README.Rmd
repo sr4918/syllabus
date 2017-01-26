@@ -83,8 +83,8 @@ It is expected that all work turned in for this course will be your own original
 You will….
 + do the readings and complete the assignments consistently
 + actively contribute to class activities online and in-person
-+ be an active and collaborative technical problem-solver
-+ ask for help or support from your peers and myself if you need it
++ ask for help or support from your peers and myself **when** you need it
++ be an active and collaborative technical problem-solver (*give that help back!*)
 + pick a project that is interesting and meaningful to you
 + have fun exploring ideas and data in this course!
 
