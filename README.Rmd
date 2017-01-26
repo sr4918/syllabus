@@ -40,7 +40,7 @@ Course readings come from a variety of scholarly journals and edited book volume
 
 Each week that readings are assigned, you are expected to talk about key ideas and/or questions they raise in our [course Slack space] (https://ladsedu.slack.com/). You should make at least two high quality comments over the course of the week. High quality comments are ones which are: 
   + *thoughtful* about the readings
-  + *rationale* in backing up ideas with evidence/theory
+  + *rationaled* in backing up ideas with evidence/theory
   + *connected* to what has been said already.
 
 ###Software
