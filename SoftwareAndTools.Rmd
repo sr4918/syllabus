@@ -32,6 +32,7 @@ R is an open source programming language for statistical computing and graphics 
 ####Connecting your Github account to your RStudio installation 
 In order to *pull* down files from a Github *repository*, work with them in RStudio, *commit* the changes and *push* the files back up to the repository, you will need your RStudio installation to be set up to use Git to communicate with Github. 
   + [Setting Up GitHub with RStudio](http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/)
+  + **NOTE** The two lines you need to type into the GIT Cmd/Bash terminal each have **two** short dashes in them (i.e. "git config –-global user.name "your GitHub account name"), this is not clearly shown in the tutorial but was spotted by someone in the class with sharp eyes :-)
   
 Once you have set-up the connection, I recommend that you follow the instructions at the end of the article to create a test repository with the default README.md file, pull it down into a new project in RStudio, make some edits to the text (it doesn't matter what), commit the changes and push back up to github. You should then be able to view the modified file in your github account and know that you are ready to go for next week.
 
