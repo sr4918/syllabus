@@ -29,7 +29,7 @@ This necessarily means that students become comfortable with the educational app
 Assignment|Description|Weight
 ----------|----------------------------|------
 Online & In-Class Engagement	| This includes active and prepared participation: during in-class sessions; in online exchanges about the readings; as part of the class community in asking and answering questions about data, analysis and interpretation. |	20%
-Individual Data Science Assignments (5) |	Using provided tools and/or code, conduct and interpret the results of various data processing and analyses approaches (e.g. data cleaning, dimension reduction, clustering, predictive modelling, social network analysis, natural language processing). |	50%
+Individual Data Science Assignments (4) |	Using provided tools and/or code, conduct and interpret the results of various data processing and analyses approaches (e.g. data cleaning, dimension reduction, clustering, predictive modelling, social network analysis, natural language processing). |	50%
 Group Data Science Project	| Design, conduct and interpret an analysis designed to produce a particular kind of insight into specific data. |	30%
 
 ###Online Space & Communication
