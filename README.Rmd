@@ -28,7 +28,7 @@ This necessarily means that students become comfortable with the educational app
 ### Course Requirements
 Assignment|Description|Weight
 ----------|----------------------------|------
-Online & In-Class Engagement (ongoing)	| This includes active and prepared participation during in-class sessions, in online exchanges about the readings, and as part of the class community in asking and answering questions about data, analysis and interpretation. |	20%
+Online and In-Class Engagement (ongoing)	| This includes active and prepared participation during in-class sessions, in online exchanges about the readings, and as part of the class community in asking and answering questions about data, analysis and interpretation. |	20%
 Individual Data Science Assignments (4) |	Using provided tools and/or code, conduct and interpret the results of various data processing and analyses approaches (e.g. data cleaning, dimension reduction, clustering, predictive modelling, social network analysis, natural language processing). |	50%
 Group Data Science Project (1)	| Design, conduct and interpret an analysis designed to produce a particular kind of insight into specific data. |	30%
 
@@ -50,7 +50,7 @@ Each week that readings are assigned, you are expected to discuss the key ideas 
   + *Connected* to what has been said already.
 
 ### Software
-You will be asked to download, install and use a number of data analysis and generation tools as part of your work in this course. All required tools are freely available on the web and are supported by communities of users which generate documentation, offer tutorials, and ask and answer questions to help each other. The primary tools you we will be working with this term are R and R Studio. Detailed information about how to install and set these up for the class is provided on the [Software & Tools](SoftwareandTools.Rmd) page.
+You will be asked to download, install and use a number of data analysis and generation tools as part of your work in this course. All required tools are freely available on the web and are supported by communities of users which generate documentation, offer tutorials, and ask and answer questions to help each other. The primary tools you we will be working with this term are R and R Studio. Detailed information about how to install and set these up for the class is provided on the [Software &  Tool Set-Up](https://github.com/learninganalytics-datascience-edu/syllabus/blob/master/SoftwareAndTools.Rmd) page.
 
 ### Accessibility
 Any student attending NYU who needs an accommodation due to a chronic, psychological, visual, mobility and/or learning disability, or is Deaf or Hard of Hearing should register with the Moses Center for Students with Disabilities, 719 Broadway, 2nd Floor, 212.998.4980 (telephone and TTY), <http://www.nyu.edu/csd>.
@@ -81,12 +81,12 @@ Academic integrity is the guiding principle for all that you do at the universit
 
 It is expected that all work turned in for this course will be your own original work with appropriate credit given to all sources used. This holds for both written compositions and code. There are many open source resources available to help you in your work in this course. You are encouraged to both use and appropriately acknowledge these sources. Students who submit work that is either not their own or without clear attribution to the original source, fabricate data or engage in cheating / misrepresentation may be penalized for academic dishonesty.  
 
-####Resources
+### Resources
   +	[Steinhardt’s Academic Integrity Policy](http://steinhardt.nyu.edu/policies/academic_integrity)
   + [NYU’s Academic Integrity Policy](http://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/academic-integrity-for-students-at-nyu.html)
   +	[APA Style Guide](http://guides.nyu.edu/apa)
 
-###Expectations
+### Expectations
 You will…
 
 + do the readings and complete the assignments consistently
