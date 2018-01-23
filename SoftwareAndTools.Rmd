@@ -1,36 +1,41 @@
 ---
-title: "R Notebook"
+title: "Software & Tools"
 output: html_notebook
 ---
 
-#Software & Tools
+# Software & Tools
 In this course we will be using several online services and software packages. In order to particpate in the class you will need to have operational, up-to-date accounts and installations of these tools.
 
-##Online Services
+## Online Services
 
-####Slack
-Slack is an online team collaboration tool. Our [LADS-EDU Slack space](https://ladsedu.slack.com) will be the hub for our communication and the go-to place for discussing the readings and connecting with classmates when you have technical problems. Use this [invitation link](https://ladsedu.slack.com/shared_invite/MTMyMzAwMTI0NzkwLTE0ODUyNTQyOTktYjRmOTg2MDhmYQ) to join our Slack team.
+#### Slack
+Slack is an online team collaboration tool. Our [LADS-EDU Slack space](https://ladsedu.slack.com) will be the hub for our communication and the go-to place for discussing the readings and connecting with classmates when you have technical problems. Use this [invitation link] **ADD NEW LINK** to join our Slack team. 
 
-####Github
+You should either download the Slack app for your computer or mobile device, enable desktop notifications from the browser, or plan to check in daily to make sure you don't miss any important course announcements.
+
+#### Github
 GitHub is an online repository using the Git version control system. Our [LADS-EDU Github space](https://github.com/learninganalytics-datascience-edu) is where I will upload course documents, links to readings and assignments. It is also where you will submit your completed assignments. You will need to [create a (free) personal Github account](https://github.com/join?source=header) if you don't have one already. When you have a Github account, share your username in the #githubdeets Slack channel and I will add you to our class organization so you will have full access to all the files and I will be able to see when you have work ready for me to review.
 
-##Software
+**Important: Make sure to choose usernames for Slack and Github that are (a) the same or very similar to each other and (b) are easily connected to your official name in the NYU system.**
 
-####Git
-Git is a version control system (a way to keep track of changes in files across multiple copies accessed by multiple users). You will need this installed inorder to work with our class files on Github.
+## Software
+
+#### Git
+Git is a version control system (a way to keep track of changes in files across multiple copies accessed by multiple users). You will need this installed on your computer in order to work with our class files on Github.
+
   + [Install Git](https://git-scm.com/downloads)
   
-####R and RStudio
-R is an open source programming language for statistical computing and graphics widely used in data mining and learning analytics. RStudio is an open source development environment that supports work in R with a variety of functionalities. You will need to install both of these on your computer.  
+#### R and RStudio
+R is an open source programming language for statistical computing and graphics widely used in data mining and learning analytics. RStudio is an open source development environment that supports work in R with a variety of functionalities. You will need to install both of these on your computer.
+
   + [Install R 3.3.2](https://cran.rstudio.com/)
   + [Install RStudio 1.0.136](https://www.rstudio.com/)
 
-*Additional R Resources*
-  + [Lynda.com tutorial on R (Installation is addressed in Sections 1 & 2)](http://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html?org=nyu.edu)
-  + [NYU R Tutorials and Resources](http://guides.nyu.edu/r)
+You will be assigned some basic tutorials for using R that you can complete within R itself (using the Swirl R package). NYU also offers additional [Tutorials and Resources for R](http://guides.nyu.edu/r) including access to modules on Lynda.com.
   
-####Connecting your Github account to your RStudio installation 
-In order to *pull* down files from a Github *repository*, work with them in RStudio, *commit* the changes and *push* the files back up to the repository, you will need your RStudio installation to be set up to use Git to communicate with Github. 
+## Connecting your Github account to your RStudio installation 
+In order to complete your course assignments you will need to *pull* down files I provide from a Github *repository* to your computer, work with them using R in RStudio, *commit* the changes and *push* the files back up to the repository. (*Tip: This is an important sequence of events that you will need to do many times this term*). For this to work, you will need to set-up your RStudio installation to use Git to communicate with Github. 
+
   + [Setting Up GitHub with RStudio](http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/)
   + **NOTE** The two lines you need to type into the GIT Cmd/Bash terminal each have **two** short dashes in them (i.e. "git config –-global user.name "your GitHub account name"), this is not clearly shown in the tutorial but was spotted by someone in the class with sharp eyes :-)
   

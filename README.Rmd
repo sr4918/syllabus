@@ -7,7 +7,7 @@ output: html_notebook
 
 ---
 
-### Spring 2018 | Th 4:55-6:35 | MAGNET 845 | Dr. Alyssa Wise | alyssa.wise@nyu.edu 
+### Spring 2018 | Th 4:55-6:35 | MAGNET 805 | Dr. Alyssa Wise | alyssa.wise@nyu.edu 
 
 ### Overview
 
@@ -43,7 +43,7 @@ The second space is in [Slack](https://ladsedu.slack.com/) an online team collab
 ### Readings
 Course readings come from a variety of scholarly journals and edited book volumes. The majority of these are available online through the [NYU Library](https://library.nyu.edu/) and you are welcome to work with them in digital or print form as you wish. Exceptions are noted on the week-by-week schedule with a link or digital file provided.
 
-Each week that readings are assigned, you are expected to discuss the key ideas and/or questions raised in our [Slack Course Space](https://ladsedu.slack.com/). You should make at least two high quality comments each week. High quality comments are ones which are: 
+Each week that readings are assigned, you are expected to discuss the key ideas and/or questions raised in our [Slack Course Space](https://ladsedu.slack.com/). You should make at least two high quality comments each week (these may relate to any combination of the week's readings). High quality comments are ones which are: 
 
   + *Thoughtful* about the readings
   + *Rationaled* in backing up ideas with evidence/theory
