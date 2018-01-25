@@ -9,7 +9,7 @@ In this course we will be using several online services and software packages. I
 ## Online Services
 
 #### Slack
-Slack is an online team collaboration tool. Our [LADS-EDU Slack space](https://ladsedu.slack.com) will be the hub for our communication and the go-to place for discussing the readings and connecting with classmates when you have technical problems. Use this [invitation link] **ADD NEW LINK** to join our Slack team. 
+Slack is an online team collaboration tool. Our [LADS-EDU Slack space](https://ladsedu.slack.com) will be the hub for our communication and the go-to place for discussing the readings and connecting with classmates when you have technical problems. Use this [invitation link](https://join.slack.com/t/ladsedu/shared_invite/enQtMzA0NjQ4ODQxMTM5LTJmMTMwMTgyZDA5MjU4YWJkN2M2YTJlNWJhNjQyZjNlOTliMjdmYWQ3NjBiODczOGYwN2MzNGNkMTU3OTM4ODA) to join our Slack team. 
 
 You should either download the Slack app for your computer or mobile device, enable desktop notifications from the browser, or plan to check in daily to make sure you don't miss any important course announcements.
 

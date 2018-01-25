@@ -11,6 +11,9 @@ output: html_notebook
 
 ### Overview
 
+#### [Course Schedule](link coming)
+#### [Software & Tools Set-Up](link coming)
+
 Advances in computing, internet, and sensing technologies are changing our relationship to data in all areas of life, including education and learning. Large quantities of detailed information is now routinely collected as part of our interaction with digital learning tools and social media, and tools for data collection in physical spaces are rapidly becoming more affordable and less intrusive. This creates exciting opportunities to generate insight that can help us better understand and improve learning, but it also raises questions about data rights, validity issues for different data-based inferences, and more broadly concerns about what the utilization of this data may mean for education and society. Importantly, the increasing prevalence and pervasiveness of data means that in the near future, critically assessing and making informed decisions about data use will be part of every education-related career.
 
 Learning Analytics & Data Science in Education provides an introduction to uses of data in education that will help students develop their ability to evaluate data sources, perform analyses and critically evaluate applications of data use in real world educational situations. The course weaves together three strands of focus: a conceptual concern with selecting and interpreting data-based information, a technical emphasis on working with data and performing analyses, and a societal lens on understanding the opportunities, challenges and concerns that such data use presents. There are no pre-requisites for this course and no previous experience in statistics, computer science or data manipulation is expected; however, students will be introduced to and asked to work with a selected set of data analysis tools and techniques during the course.
