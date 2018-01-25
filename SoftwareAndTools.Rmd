@@ -28,8 +28,8 @@ Git is a version control system (a way to keep track of changes in files across 
 #### R and RStudio
 R is an open source programming language for statistical computing and graphics widely used in data mining and learning analytics. RStudio is an open source development environment that supports work in R with a variety of functionalities. You will need to install both of these on your computer.
 
-  + [Install R 3.3.2](https://cran.rstudio.com/)
-  + [Install RStudio 1.0.136](https://www.rstudio.com/)
+  + [Install R 3.4.3](https://cran.rstudio.com/)
+  + [Install RStudio 1.1.419](https://www.rstudio.com/)
 
 You will be assigned some basic tutorials for using R that you can complete within R itself (using the Swirl R package). NYU also offers additional [Tutorials and Resources for R](http://guides.nyu.edu/r) including access to modules on Lynda.com.
   
