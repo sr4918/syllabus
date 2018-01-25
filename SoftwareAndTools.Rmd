@@ -36,9 +36,25 @@ You will be assigned some basic tutorials for using R that you can complete with
 ## Connecting your Github account to your RStudio installation 
 In order to complete your course assignments you will need to *pull* down files I provide from a Github *repository* to your computer, work with them using R in RStudio, *commit* the changes and *push* the files back up to the repository. (*Tip: This is an important sequence of events that you will need to do many times this term*). For this to work, you will need to set-up your RStudio installation to use Git to communicate with Github. 
 
-  + [Setting Up GitHub with RStudio](http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/)
-  + **NOTE** The two lines you need to type into the GIT Cmd/Bash terminal each have **two** short dashes in them (i.e. "git config –-global user.name "your GitHub account name"), this is not clearly shown in the tutorial but was spotted by someone in the class with sharp eyes :-)
-  
-Once you have set-up the connection, I recommend that you follow the instructions at the end of the article to create a test repository with the default README.md file, pull it down into a new project in RStudio, make some edits to the text (it doesn't matter what), commit the changes and push back up to github. You should then be able to view the modified file in your github account and know that you are ready to go for next week.
+Here is a pretty good set of instructions to follow: **[Setting Up GitHub with RStudio](http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/)**
 
-*Note*: While the instructions given for connecting GitHub and RStudio are clear and thorough, it is still possible to run into challenges getting the systems to talk to each other. Don't be discouraged -  figuring out how to get the tools to do what you want is a big part of data science. What is important is not giving up when things don't work right away and learning to troubleshoot problems. If you do run into difficulties you can (a) look for help for the specific problem you are encountering online (there are many helpful forums devoted to working with R, RStudio, Git and Github); (b) ask your classmates for help in the [Slack #tech-help channel](https://ladsedu.slack.com/messages/tech-help/) - others may have run into the same issue. Conversely, if you have been successful in connecting the systems, please check Slack to see if you can be of help to others; (c) if searching for help and asking your classmates hasn't resolved the issue, send me an email and we can set up a time to meet *before* next class. 
+Here is a second set that some students have also found useful: **[Version Control in RStudio with Git](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)**
+
+Once you have set-up the connection, I **highly** recommend that you follow the instructions at the end of the first set of instruction to create a test repository with the default README.md file, pull it down into a new project in RStudio, make some edits to the text (it doesn't matter what), commit the changes and push back up to github. You should then be able to view the modified file in your github account and know that you are ready to go for next week. Testing your code (or in this case your installation) is a critical part of the process.
+
+**IMPORTANT NOTES / CLARIFICATIONS ON THE FIRST SET OF INSTRUCTIONS BASED ON PRIOR STUDENT EXPERIENCE** 
+
+*For Everyone:*
+
+  + The two lines you need to type into the GIT Cmd/Bash terminal each have **two** short dashes in them (i.e. "git config –-global user.name "your GitHub account name"), not one long one.
+  + The current Github interface is different than what’s in the tutorial. When you want to get the repository URL, just click the green “Clone or Download” button, and you’ll see it. 
+  
+*For Mac Users:*
+  
+  + After you have installed Git, you may not see an executable file in the location of the installation. If so, it will be in /usr/bin/. This folder is normally hidden, if you don’t know how to access this folder, open Finder, click Go (on the file menu) and choose “Go to folder” and then type in “/usr/bin/” and then press return/enter key. You will find it there.
+  + When the tutorial says “Open up the bash version of Git” you need to open a new terminal window (if you don’t know how to do this, just use spotlight search (command + space) and type “terminal” and then press return key). After you open a new terminal window, drag the git file from the finder window to the terminal window and press return. Then you can type in the commands in the tutorial.
+  + If you recieve the follow error, please follow instructions [10.1.1](http://ohi-science.org/manual/#rpostback-askpass-error) to correct it:  "error: unable to read askpass response from 'rpostback-askpass' fatal: could not read Username for github.com: Device not configured"
+
+**IMPORTANT TROUBLESHOOTING AND EMOTIONAL WELL-BEING INFORMATION**
+
+While the instructions given for connecting GitHub and RStudio are clear and thorough, it is still possible to run into challenges getting the systems to talk to each other. Don't be discouraged -  figuring out how to get the tools to do what you want is a big part of data science. What is important is not giving up when things don't work right away and learning to troubleshoot problems. If you do run into difficulties you can (a) look for help for the specific problem you are encountering online (there are many helpful forums devoted to working with R, RStudio, Git and Github); (b) ask your classmates for help in the [Slack #tech-help channel](https://ladsedu.slack.com/messages/tech-help/) - others may have run into the same issue. Conversely, if you have been successful in connecting the systems, please check Slack to see if you can be of help to others; (c) if searching for help and asking your classmates hasn't resolved the issue, send me an email and we can set up a time to meet *before* next class. 
