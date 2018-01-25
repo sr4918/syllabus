@@ -6,9 +6,6 @@ output: html_notebook
 ## Course Schedule
 *(subject to change in order to best meet your learning needs and interests)*
 
-Wickham, H. (2014). [Tidy data](https://www.jstatsoft.org/article/view/v059i10/v59i10.pdf). *Journal of Statistical Software, 59*(10), 1-23.
-
-
 Session|Topic|Readings + Other Preparation|Assignments Due
 ---------|------------|------------------------------------|--------------
 Wk 1 Jan 25	| Introduction to Educational Data Science	|	Educause (2015). [Why is measuring learning so difficult?](http://er.educause.edu/multimedia/2015/8/why-is-measuring-learning-so-difficult-v) |
