@@ -4,7 +4,7 @@ output: html_notebook
 ---
 
 # Software & Tools
-In this course we will be using several online services and software packages. In order to particpate in the class you will need to have operational, up-to-date accounts and installations of these tools.
+In this course we will be using several online services and software packages. In order to participate in the class you will need to have operational, up-to-date accounts and installations of these tools.
 
 ## Online Services
 
