@@ -1,6 +1,7 @@
 ---
 title: "Course Schedule"
 output: html_notebook
+keep_md: true
 ---
 
 ## Course Schedule
