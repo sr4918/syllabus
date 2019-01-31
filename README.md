@@ -9,7 +9,7 @@ output: html_notebook
 
 ### Spring 2019 | Th 4:55-6:35 | MAGNET 805 | Dr. Alyssa Wise | alyssa.wise@nyu.edu 
 
-### Overview
+### Overview SO GREAT
 
 #### [Course Schedule](https://github.com/learninganalytics-datascience-edu/syllabus/blob/master/CourseSchedule.md)
 #### [Software & Tools Set-Up](https://github.com/learninganalytics-datascience-edu/syllabus/blob/master/SoftwareAndTools.md)
