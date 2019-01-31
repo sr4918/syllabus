@@ -11,8 +11,8 @@ output: html_notebook
 
 ### Overview
 
-#### [Course Schedule](https://github.com/learninganalytics-datascience-edu/syllabus/blob/master/CourseSchedule.Rmd)
-#### [Software & Tools Set-Up](https://github.com/learninganalytics-datascience-edu/syllabus/blob/master/SoftwareAndTools.Rmd)
+#### [Course Schedule](https://github.com/learninganalytics-datascience-edu/syllabus/blob/master/CourseSchedule.md)
+#### [Software & Tools Set-Up](https://github.com/learninganalytics-datascience-edu/syllabus/blob/master/SoftwareAndTools.md)
 
 Advances in computing, internet, and sensing technologies are changing our relationship to data in all areas of life, including education and learning. Large quantities of detailed information is now routinely collected as part of our interaction with digital learning tools and social media, and tools for data collection in physical spaces are rapidly becoming more affordable and less intrusive. This creates exciting opportunities to generate insight that can help us better understand and improve learning, but it also raises questions about data rights, validity issues for different data-based inferences, and more broadly concerns about what the utilization of this data may mean for education and society. Importantly, the increasing prevalence and pervasiveness of data means that in the near future, critically assessing and making informed decisions about data use will be part of every education-related career.
 
